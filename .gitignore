@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+# ignore server.pbl file
+_server.pbl
+
