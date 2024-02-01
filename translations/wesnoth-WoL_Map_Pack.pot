@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-02-01 22:24 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [multiplayer]: id=multiplayer_2p_Astral_Port
+#: WoL_Map_Pack/scenarios/2p_Astral_Port.cfg:79
+msgid "2p — Astral Port"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Astral_Port
+#. [multiplayer]: id=multiplayer_Serpent_Ford
+#: WoL_Map_Pack/scenarios/2p_Astral_Port.cfg:80
+#: WoL_Map_Pack/scenarios/2p_Serpent_Ford.cfg:37
+msgid "Created by Q."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Astral_Port.cfg:232
+#: WoL_Map_Pack/scenarios/2p_Blacksmoke_Crater.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:24
+#: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:28
+#: WoL_Map_Pack/scenarios/2p_Fast_To_Madness.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:32
+#: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Serpent_Ford.cfg:301
+#: WoL_Map_Pack/scenarios/2p_Thalins_Stronghold.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:21
+#: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:33
+#: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:46
+msgid "teamname^North"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Astral_Port.cfg:245
+#: WoL_Map_Pack/scenarios/2p_Blacksmoke_Crater.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:15
+#: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:44
+#: WoL_Map_Pack/scenarios/2p_Fast_To_Madness.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Serpent_Ford.cfg:314
+#: WoL_Map_Pack/scenarios/2p_Thalins_Stronghold.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:32
+#: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:20
+#: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:59
+msgid "teamname^South"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Blacksmoke_Crater
+#: WoL_Map_Pack/scenarios/2p_Blacksmoke_Crater.cfg:5
+msgid "2p — Blacksmoke Crater"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Blacksmoke_Crater
+#: WoL_Map_Pack/scenarios/2p_Blacksmoke_Crater.cfg:7
+msgid "An extinct volcano crater is now theatre of the battle (Created by mich)."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Caves_of_Khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:5
+msgid "2p — Caves of Khundar"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Caves_of_Khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:6
+msgid "Maze of natural and forced tunnels, where legendary necromancer Khundar ended his days."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Caves_of_Khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:39
+msgid "$unit.name finds the legendary staff of necromancer Khundar. Should $unit.name pick it up?"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Caves_of_Khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:40
+msgid "Magic Staff of Khundar^Yes"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Caves_of_Khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:41
+msgid "Magic Staff of Khundar^No"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Caves_of_Khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:42
+msgid "$unit.name is too weak to use the darkest powers of the necromancer’s staff."
+msgstr ""
+
+#. [object]: id=staff_of_khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:44
+msgid "Staff of Khundar"
+msgstr ""
+
+#. [object]: id=staff_of_khundar
+#: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:46
+msgid "The magic staff used by one of the greatest necromancers"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Crescent_Lake
+#: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:5
+msgid "2p — Crescent Lake"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Crescent_Lake
+#: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:6
+msgid "No one knows how this strangely shaped lake nor the structure built on it came to exist in the northlands, but all know the wealth that can be achieved by its conquest. Created by Velensk."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Devious_Dockyard
+#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:5
+msgid "2p — Devious Dockyard"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Devious_Dockyard
+#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:6
+msgid "Go home Sulla, you are drunk."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:27
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:34
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:46
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:34
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:46
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:30
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:52
+msgid "teamname^East"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:36
+#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:20
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:15
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:58
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:58
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:19
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:41
+msgid "teamname^West"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Eryn_Chetu
+#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:5
+msgid "2p — Eryn Chethu"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Eryn_Chetu
+#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:6
+msgid "Beware wanderer, for even the elves do not know what lives in the forests of Eryn Chethu. Recommended setting of 3 gold per village."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Fast_to_Madness
+#: WoL_Map_Pack/scenarios/2p_Fast_To_Madness.cfg:5
+msgid "2p — Fast To Madness"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Fast_to_Madness
+#: WoL_Map_Pack/scenarios/2p_Fast_To_Madness.cfg:6
+msgid "For a long time these two landlords have been at loggerheads with each other and it seems that today another chapter will be added to their story of pointless skirmishes. Recommended setting of 2 gold per village."
+msgstr ""
+
+#. [multiplayer]: id=2p_Grand_Houde_Mountain
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:5
+msgid "2p — Grand Houde Mountain"
+msgstr ""
+
+#. [multiplayer]: id=2p_Grand_Houde_Mountain
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:7
+msgid "At the edges of the foothills of the Heart Mountains there is one especially imposing mountain that dwarves them all: the Grand Houde Mountain. Only recently, its extensive mineral deposits were discovered. Who will be able to claim them first?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:50
+msgid "2p Grand Houde Mountain"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:54
+msgid ""
+"<span color='red'>Note:</span>\n"
+"\n"
+"<span color='green'>Player 1's leader can not move during the second turn, but he can recruit. After the second turn he is free to move.</span>\n"
+"\n"
+"<span color='green'>The three central villages on 23.8, 23.16 and 23.24 provide flat terrain defense bonuses for any unit, i.e. a spearman will have 40% defense there. They still count as villages, providing gold, upkeep and healing for units.</span>\n"
+"\n"
+"<span color='green'>Windmills will provide healing, just like villages do, but won't provide any other benefits given by villages.</span>\n"
+""
+msgstr ""
+
+#. [multiplayer]: id=2p_Heart_Mountains_Caves
+#: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:5
+msgid "2p — Heart Mountains' Caves"
+msgstr ""
+
+#. [multiplayer]: id=2p_Heart_Mountains_Caves
+#: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:6
+msgid "A map made by Sulik, improved by Rigor, and maintained by Horus."
+msgstr ""
+
+#. [multiplayer]: id=2p_Karphiol_Valley
+#: WoL_Map_Pack/scenarios/2p_Karphiol_Valley.cfg:5
+msgid "2p — Karphiol Valley"
+msgstr ""
+
+#. [multiplayer]: id=2p_Karphiol_Valley
+#: WoL_Map_Pack/scenarios/2p_Karphiol_Valley.cfg:6
+msgid "A small valley in the Heart Mountains, that gave place to an outpost, built by the Northern Alliance many-, and destroyed by a hostile drake tribe a few years ago."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Karphiol_Valley.cfg:83
+#: WoL_Map_Pack/scenarios/2p_Rice_Terraces.cfg:32
+#: WoL_Map_Pack/scenarios/2p_Wellington.cfg:32
+#: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:32
+#: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:44
+msgid "teamname^Southeast"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Karphiol_Valley.cfg:94
+#: WoL_Map_Pack/scenarios/2p_Rice_Terraces.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Wellington.cfg:21
+#: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:20
+#: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:56
+msgid "teamname^Northwest"
+msgstr ""
+
+#. [multiplayer]: id=2p_Rice_Terraces
+#: WoL_Map_Pack/scenarios/2p_Rice_Terraces.cfg:5
+msgid "2p — Rice Terraces"
+msgstr ""
+
+#. [multiplayer]: id=2p_Rice_Terraces
+#: WoL_Map_Pack/scenarios/2p_Rice_Terraces.cfg:7
+msgid "Created by Horus2."
+msgstr ""
+
+#. [multiplayer]: id=2p_Rime_Grotto
+#: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:5
+msgid "2p — Rime_Grotto"
+msgstr ""
+
+#. [multiplayer]: id=2p_Rime_Grotto
+#: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:7
+msgid "This wide grotto, discovered and settled a long time ago by one, united group, a time of great prosperity. Peace does not last foever, as gradually the settlement's unity is lost as there becomes two distinct, hostile factions, both seeking to destroy the other, to take control. For the first time in its history, this forever peaceful grotto is embroiled in the flames of war. (Created by mich. Glaciated by Mint)."
+msgstr ""
+
+#. [multiplayer]: id=2p_Scarred_Foothills
+#: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:5
+msgid "2p — Scarred Foothills"
+msgstr ""
+
+#. [multiplayer]: id=2p_Scarred_Foothills
+#: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:7
+msgid "Created by Siddh."
+msgstr ""
+
+#. [message]
+#: WoL_Map_Pack/scenarios/2p_Serpent_Ford.cfg:12
+msgid "Roar!"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Serpent_Ford
+#: WoL_Map_Pack/scenarios/2p_Serpent_Ford.cfg:36
+msgid "2p — Serpent Ford"
+msgstr ""
+
+#. [multiplayer]: id=2p_Sylvan_Refuge
+#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:4
+msgid "2p — Sylvan Refuge"
+msgstr ""
+
+#. [multiplayer]: id=2p_Sylvan_Refuge
+#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:6
+msgid "1v1 Map made by Lord-Knightmare."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:19
+msgid "South"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:28
+msgid "North"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Thalins_Stronghold
+#: WoL_Map_Pack/scenarios/2p_Thalins_Stronghold.cfg:5
+msgid "2p — Thalin's Stronghold"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Thalins_Stronghold
+#: WoL_Map_Pack/scenarios/2p_Thalins_Stronghold.cfg:6
+msgid "Deep within the mountains lie the castles of the dwarven lords. Recommended setting of 2 gold per village."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Trolls
+#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:5
+msgid "2p — Trolls"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Trolls
+#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:6
+msgid "Each side might have some problems with trolls, who are now living in these underground tunnels."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:43
+msgid "teamname^Trolls"
+msgstr ""
+
+#. [multiplayer]: id=2p_Twin_Goddesses
+#: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:5
+msgid "2p — Twin Goddesses"
+msgstr ""
+
+#. [multiplayer]: id=2p_Twin_Goddesses
+#: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:6
+msgid "This volcanic cave was once a temple, where in ancient times people had been worshipping their gods, and were throwing their offerings into lava pits. (Created by White_Drag0n)"
+msgstr ""
+
+#. [multiplayer]: id=2p_Wellington
+#: WoL_Map_Pack/scenarios/2p_Wellington.cfg:5
+msgid "2p — Wellington"
+msgstr ""
+
+#. [multiplayer]: id=2p_Wellington
+#: WoL_Map_Pack/scenarios/2p_Wellington.cfg:7
+msgid "This is not the Freelands."
+msgstr ""
+
+#. [multiplayer]: id=4p_Fastfall
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:5
+msgid "4p — Fastfall"
+msgstr ""
+
+#. [multiplayer]: id=4p_Fastfall
+#. [multiplayer]: id=4p_Sphinx
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:7
+#: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:7
+msgid "A map made by Enin."
+msgstr ""
+
+#. [multiplayer]: id=4p_First_Cataract
+#: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:5
+msgid "4p — First Cataract"
+msgstr ""
+
+#. [multiplayer]: id=4p_First_Cataract
+#: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:7
+msgid "Your allies have made first contact at the cataract, but can you get there before your enemies reinforce?"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Mines_of_Mallorod
+#: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:5
+msgid "4p — Mines of Mallorod"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Mines_of_Mallorod
+#: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:6
+msgid "The dwarves were the first to arrive when it became known that gold had been found at Mallorod. Shortly after others followed and soon quarrels arose over the right to delve for the shiny metal."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Mines_of_Mallorod
+#: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:6
+msgid " Recommended setting of 2 gold per village."
+msgstr ""
+
+#. [multiplayer]: id=4p_Murkrot
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:5
+msgid "4p — Murkrot"
+msgstr ""
+
+#. [multiplayer]: id=4p_Murkrot
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:7
+msgid "A 2vs2 fought in the rotting shallows of a murky wood."
+msgstr ""
+
+#. [multiplayer]: id=4p_Oscillator
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:5
+msgid "4p — Oscillator"
+msgstr ""
+
+#. [multiplayer]: id=4p_Oscillator
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:8
+msgid "A map made by Horus2."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:66
+msgid "teamname^Blockades"
+msgstr ""
+
+#. [multiplayer]: id=4p_Sphinx
+#: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:5
+msgid "4p — Sphinx"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:58
+msgid "teamname^Southwest"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:34
+#: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:46
+msgid "teamname^Northeast"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_8p_Underground
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:5
+msgid "8p — Underground"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_8p_Underground
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:6
+msgid "Ancient tunnel system somewhere under the Heart mountains. It also used to be a battlefield for many great underground battles in ancient wars."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:15
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:45
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:65
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:75
+msgid "teamname^Outside"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:25
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:35
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:55
+#: WoL_Map_Pack/scenarios/8p_Underground.cfg:85
+msgid "teamname^Middle"
+msgstr ""
+
