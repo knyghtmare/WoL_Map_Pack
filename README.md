@@ -15,7 +15,7 @@ Contains 55 maps.
 | Blackstone Crater    | Gloomriver            | Rockhold           |
 | Caves of Khundar     | Grand Houde Mountain  | Scarred Foothills  |
 | Celarian Gardens     | Heart Mountain Caves  | Serpent Ford       |
-| Crescent Lake        | Hernan Mills          | Shrone of the Moon |
+| Crescent Lake        | Hernan Mills          | Shrine of the Moon |
 | Devil's Plate        | Icyvale               | Sylvan Refuge      |
 | Devious Dockyard     | Ipharian Canyon       | Thalin's Stronghold|
 | Dumnak Forges        | Karphiol Valley       | Treulos            |
