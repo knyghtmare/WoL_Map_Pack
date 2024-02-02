@@ -2,7 +2,7 @@
 
 Collection of Multiplayer Maps for the [Battle for Wesnoth](https://www.wesnoth.org/) Turn-Based Strategy Game.
 
-Contains 31 maps.
+Contains 35 maps.
 
 ## Maps
 
@@ -17,16 +17,20 @@ Contains 31 maps.
 - Emperor's Garden
 - Eryn Chethu
 - Fast to Madness
+- Gloomriver
 - Grand Houde Mountain
 - Heart Mountain Caves
+- Icyvale
 - Karphiol Valley
 - Rice Terraces
 - Rime Grotto
+- Rockhold
 - Scarred Foothills
 - Serpent Ford
 - Shrone of the Moon
 - Sylvan Refuge
 - Thalin's Stronghold
+- Treulos
 - Twin Goddesses
 - Wellington
 
