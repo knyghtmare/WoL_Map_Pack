@@ -1,5 +1,14 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.1
+--> Add EoM Maps
+    --> Devil's Plate
+    --> Emperor's Garden
+    --> Shrine of the Moon
+    --> Broken Legacy
+    --> Lunatic's Fringe
+--> random_start_time="yes" => random_start_time="no"
+
 v1.0.0
 --> Initial Release
