@@ -8,7 +8,12 @@ v1.0.1
     --> Shrine of the Moon
     --> Broken Legacy
     --> Lunatic's Fringe
---> random_start_time="yes" => random_start_time="no"
+--> Add More Maps
+    --> Gloomriver
+    --> Icyvale
+    --> Rockhold
+    --> Treulos
+--> random_start_time="no" => random_start_time="no"
 
 v1.0.0
 --> Initial Release
