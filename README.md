@@ -12,7 +12,9 @@ Contains 26 maps.
 - Blackstone Crater
 - Caves of Khundar
 - Crescent Lake
+- Devil's Plate
 - Devious Dockyard
+- Emperor's Garden
 - Eryn Chethu
 - Fast to Madness
 - Grand Houde Mountain
@@ -22,6 +24,7 @@ Contains 26 maps.
 - Rime Grotto
 - Scarred Foothills
 - Serpent Ford
+- Shrone of the Moon
 - Sylvan Refuge
 - Thalin's Stronghold
 - Twin Goddesses
@@ -29,8 +32,10 @@ Contains 26 maps.
 
 ### 4p (2v2)
 
+- Broken Legacy
 - Fastfall
 - First Cataract
+- Lunatics Fringe
 - Mines of Mallorod
 - Murkrot
 - Oscillator
