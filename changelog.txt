@@ -2,6 +2,7 @@ War of Legends: Map Pack
 ========================
 
 v1.0.1
+--> Added Xalzar Maps
 --> Add EoM Maps
     --> Devil's Plate
     --> Emperor's Garden
