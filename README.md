@@ -2,7 +2,7 @@
 
 Collection of Multiplayer Maps for the [Battle for Wesnoth](https://www.wesnoth.org/) Turn-Based Strategy Game.
 
-Contains 26 maps.
+Contains 31 maps.
 
 ## Maps
 
