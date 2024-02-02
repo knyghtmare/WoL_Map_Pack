@@ -2,13 +2,57 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-02-01 22:24 UTC\n"
+"POT-Creation-Date: 2024-02-02 13:34 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. [multiplayer]: id=multiplayer_2p_Alarken_Wastelands
+#: WoL_Map_Pack/scenarios/2p_Alarken_Wastelands.cfg:6
+msgid "2p — Alarken Wastelands"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Alarken_Wastelands
+#: WoL_Map_Pack/scenarios/2p_Alarken_Wastelands.cfg:7
+msgid "Desolation and destruction struck this valley in ancient times, and the evil that does not sleep even now is lurking in the very soil of the land. West against East, 6 keeps, 14 villages."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Alarken_Wastelands.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:36
+#: WoL_Map_Pack/scenarios/2p_Dumnak_Forges.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:20
+#: WoL_Map_Pack/scenarios/2p_Fendarall_Delta.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:15
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:58
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:58
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:19
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:41
+msgid "teamname^West"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Alarken_Wastelands.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Dumnak_Forges.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Fendarall_Delta.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:27
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:34
+#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:46
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:34
+#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:46
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:30
+#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:52
+msgid "teamname^East"
+msgstr ""
 
 #. [multiplayer]: id=multiplayer_2p_Astral_Port
 #: WoL_Map_Pack/scenarios/2p_Astral_Port.cfg:79
@@ -26,16 +70,35 @@ msgstr ""
 #: WoL_Map_Pack/scenarios/2p_Astral_Port.cfg:232
 #: WoL_Map_Pack/scenarios/2p_Blacksmoke_Crater.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:24
+#: WoL_Map_Pack/scenarios/2p_Celarian_Gardens.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:28
+#: WoL_Map_Pack/scenarios/2p_Eanyl_Glade.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Fast_To_Madness.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Garash_Relics.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Gloomriver.cfg:19
 #: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:32
+#: WoL_Map_Pack/scenarios/2p_Hernan_Mills.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Icyvale.cfg:32
+#: WoL_Map_Pack/scenarios/2p_Kharan_Highlands.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Lakras_Steppes.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Neraen_Front.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Reynan_Fields.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Rockhold.cfg:32
 #: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:34
 #: WoL_Map_Pack/scenarios/2p_Serpent_Ford.cfg:301
 #: WoL_Map_Pack/scenarios/2p_Thalins_Stronghold.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Treulos.cfg:19
 #: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Valan_Pass.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Jelgeyn_Expedition.cfg:29
+#: WoL_Map_Pack/scenarios/4p_Jelgeyn_Expedition.cfg:62
+#: WoL_Map_Pack/scenarios/4p_Malahk_River.cfg:37
+#: WoL_Map_Pack/scenarios/4p_Malahk_River.cfg:48
 #: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:33
 #: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:46
+#: WoL_Map_Pack/scenarios/4p_Thangard_Mines.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Thangard_Mines.cfg:55
 msgid "teamname^North"
 msgstr ""
 
@@ -43,16 +106,35 @@ msgstr ""
 #: WoL_Map_Pack/scenarios/2p_Astral_Port.cfg:245
 #: WoL_Map_Pack/scenarios/2p_Blacksmoke_Crater.cfg:34
 #: WoL_Map_Pack/scenarios/2p_Caves_of_Khundar.cfg:15
+#: WoL_Map_Pack/scenarios/2p_Celarian_Gardens.cfg:33
 #: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:44
+#: WoL_Map_Pack/scenarios/2p_Eanyl_Glade.cfg:33
 #: WoL_Map_Pack/scenarios/2p_Fast_To_Madness.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Garash_Relics.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Gloomriver.cfg:32
 #: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Hernan_Mills.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Icyvale.cfg:19
+#: WoL_Map_Pack/scenarios/2p_Kharan_Highlands.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Lakras_Steppes.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Neraen_Front.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Reynan_Fields.cfg:33
 #: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Rockhold.cfg:19
 #: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Serpent_Ford.cfg:314
 #: WoL_Map_Pack/scenarios/2p_Thalins_Stronghold.cfg:21
+#: WoL_Map_Pack/scenarios/2p_Treulos.cfg:32
 #: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:32
+#: WoL_Map_Pack/scenarios/2p_Valan_Pass.cfg:33
+#: WoL_Map_Pack/scenarios/4p_Jelgeyn_Expedition.cfg:40
+#: WoL_Map_Pack/scenarios/4p_Jelgeyn_Expedition.cfg:51
+#: WoL_Map_Pack/scenarios/4p_Malahk_River.cfg:26
+#: WoL_Map_Pack/scenarios/4p_Malahk_River.cfg:59
 #: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:20
 #: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:59
+#: WoL_Map_Pack/scenarios/4p_Thangard_Mines.cfg:33
+#: WoL_Map_Pack/scenarios/4p_Thangard_Mines.cfg:44
 msgid "teamname^South"
 msgstr ""
 
@@ -106,6 +188,16 @@ msgstr ""
 msgid "The magic staff used by one of the greatest necromancers"
 msgstr ""
 
+#. [multiplayer]: id=multiplayer_2p_Celarian_Gardens
+#: WoL_Map_Pack/scenarios/2p_Celarian_Gardens.cfg:6
+msgid "2p — Celarian Gardens"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Celarian_Gardens
+#: WoL_Map_Pack/scenarios/2p_Celarian_Gardens.cfg:7
+msgid "While the Elvish Civil War rages, even far in the Aethenwood the elvish lands are not so tranquil... North against South, 8 keeps, 16 villages."
+msgstr ""
+
 #. [multiplayer]: id=multiplayer_2p_Crescent_Lake
 #: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:5
 msgid "2p — Crescent Lake"
@@ -114,6 +206,51 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_2p_Crescent_Lake
 #: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:6
 msgid "No one knows how this strangely shaped lake nor the structure built on it came to exist in the northlands, but all know the wealth that can be achieved by its conquest. Created by Velensk."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Devils_Plate
+#: WoL_Map_Pack/scenarios/2p_Devils_Plate.cfg:5
+msgid "2p — Devils Plate"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Devils_Plate
+#: WoL_Map_Pack/scenarios/2p_Devils_Plate.cfg:6
+msgid "The Devil plays with his food."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Devils_Plate.cfg:23
+msgid "West"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Devils_Plate.cfg:32
+msgid "East"
+msgstr ""
+
+#. [objectives]
+#: WoL_Map_Pack/scenarios/2p_Devils_Plate.cfg:40
+#: WoL_Map_Pack/scenarios/2p_Emperors_Garden.cfg:39
+#: WoL_Map_Pack/scenarios/2p_Shrine_of_the_Moon.cfg:39
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:57
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:57
+msgid "Created by Velensk"
+msgstr ""
+
+#. [objective]: condition=win
+#: WoL_Map_Pack/scenarios/2p_Devils_Plate.cfg:42
+#: WoL_Map_Pack/scenarios/2p_Emperors_Garden.cfg:41
+#: WoL_Map_Pack/scenarios/2p_Shrine_of_the_Moon.cfg:41
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: WoL_Map_Pack/scenarios/2p_Devils_Plate.cfg:46
+#: WoL_Map_Pack/scenarios/2p_Emperors_Garden.cfg:45
+#: WoL_Map_Pack/scenarios/2p_Shrine_of_the_Moon.cfg:45
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:63
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:63
+msgid "Death of your leader"
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_2p_Devious_Dockyard
@@ -126,32 +263,52 @@ msgstr ""
 msgid "Go home Sulla, you are drunk."
 msgstr ""
 
-#. [side]
-#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:21
-#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:34
-#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:34
-#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:27
-#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:34
-#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:46
-#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:34
-#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:46
-#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:30
-#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:52
-msgid "teamname^East"
+#. [multiplayer]: id=multiplayer_2p_Dumnak_Forges
+#: WoL_Map_Pack/scenarios/2p_Dumnak_Forges.cfg:6
+msgid "2p — Dumnak Forges"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Dumnak_Forges
+#: WoL_Map_Pack/scenarios/2p_Dumnak_Forges.cfg:7
+msgid "The Forges of Dumnak were active in past times, but due to episodic eruptions of the near volcanoes, were quickly abandoned by their former owners. Now that the volcanoes are silent, various kingdoms and clans claim ownership of their richness. West against East, 8 keeps, 14 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Eanyl_Glade
+#: WoL_Map_Pack/scenarios/2p_Eanyl_Glade.cfg:6
+msgid "2p — Eanyl Glade"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Eanyl_Glade
+#: WoL_Map_Pack/scenarios/2p_Eanyl_Glade.cfg:7
+msgid "Shadows of war arrive to disturb this holy elvish sanctuary, you are in charge to defend it. North against South, 8 keeps, 14 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Emperors_Garden
+#: WoL_Map_Pack/scenarios/2p_Emperors_Garden.cfg:5
+msgid "2p — Emperors Garden"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Emperors_Garden
+#: WoL_Map_Pack/scenarios/2p_Emperors_Garden.cfg:6
+msgid "The emperor is a very efficient man, he waters his gardens and entertains himself at the same time."
 msgstr ""
 
 #. [side]
-#: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:36
-#: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:20
-#: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:22
-#: WoL_Map_Pack/scenarios/2p_Trolls.cfg:15
-#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:22
-#: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:58
-#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:22
-#: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:58
-#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:19
-#: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:41
-msgid "teamname^West"
+#: WoL_Map_Pack/scenarios/2p_Emperors_Garden.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Shrine_of_the_Moon.cfg:31
+#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:28
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:49
+msgid "North"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Emperors_Garden.cfg:31
+#: WoL_Map_Pack/scenarios/2p_Shrine_of_the_Moon.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:19
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:31
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:40
+msgid "South"
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_Eryn_Chetu
@@ -174,12 +331,39 @@ msgstr ""
 msgid "For a long time these two landlords have been at loggerheads with each other and it seems that today another chapter will be added to their story of pointless skirmishes. Recommended setting of 2 gold per village."
 msgstr ""
 
-#. [multiplayer]: id=2p_Grand_Houde_Mountain
+#. [multiplayer]: id=multiplayer_2p_Fendarall_Delta
+#: WoL_Map_Pack/scenarios/2p_Fendarall_Delta.cfg:6
+msgid "2p — Fendarall Delta"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Fendarall_Delta
+#: WoL_Map_Pack/scenarios/2p_Fendarall_Delta.cfg:7
+msgid "Two armies clash at the end of this border river. Who will prevail? West against East, 8 keeps, 18 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Garash_Relics
+#: WoL_Map_Pack/scenarios/2p_Garash_Relics.cfg:6
+msgid "2p — Garash Relics"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Garash_Relics
+#: WoL_Map_Pack/scenarios/2p_Garash_Relics.cfg:7
+msgid "These ruins of an ancient and forgotten civilization are told to hide great treasures. But you are not the only to investigate... North against South, 16 keeps, 18 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Gloomriver
+#. [multiplayer]: id=multiplayer_2p_Rockhold
+#: WoL_Map_Pack/scenarios/2p_Gloomriver.cfg:6
+#: WoL_Map_Pack/scenarios/2p_Rockhold.cfg:6
+msgid "Medium 1vs1 map with 18 villages"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Grand_Houde_Mountain
 #: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:5
 msgid "2p — Grand Houde Mountain"
 msgstr ""
 
-#. [multiplayer]: id=2p_Grand_Houde_Mountain
+#. [multiplayer]: id=multiplayer_2p_Grand_Houde_Mountain
 #: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:7
 msgid "At the edges of the foothills of the Heart Mountains there is one especially imposing mountain that dwarves them all: the Grand Houde Mountain. Only recently, its extensive mineral deposits were discovered. Who will be able to claim them first?"
 msgstr ""
@@ -202,22 +386,65 @@ msgid ""
 ""
 msgstr ""
 
-#. [multiplayer]: id=2p_Heart_Mountains_Caves
+#. [multiplayer]: id=multiplayer_2p_Heart_Mountains_Caves
 #: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:5
 msgid "2p — Heart Mountains' Caves"
 msgstr ""
 
-#. [multiplayer]: id=2p_Heart_Mountains_Caves
+#. [multiplayer]: id=multiplayer_2p_Heart_Mountains_Caves
 #: WoL_Map_Pack/scenarios/2p_Heart_Mountains_Caves.cfg:6
 msgid "A map made by Sulik, improved by Rigor, and maintained by Horus."
 msgstr ""
 
-#. [multiplayer]: id=2p_Karphiol_Valley
+#. [multiplayer]: id=multiplayer_2p_Hernan_Mills
+#: WoL_Map_Pack/scenarios/2p_Hernan_Mills.cfg:6
+msgid "2p — Hernan Mills"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Hernan_Mills
+#: WoL_Map_Pack/scenarios/2p_Hernan_Mills.cfg:7
+msgid "The wealthy lairds of these lands hired you to defend them from their enemies. Do a good job, or forget the wage. North against South, 6 keeps, 14 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Icyvale
+#: WoL_Map_Pack/scenarios/2p_Icyvale.cfg:6
+msgid "Small 1vs1 map with only 10 villages"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Ipharian_Canyon
+#: WoL_Map_Pack/scenarios/2p_Ipharian_Canyon.cfg:6
+msgid "2p — Ipharian Canyon"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Ipharian_Canyon
+#: WoL_Map_Pack/scenarios/2p_Ipharian_Canyon.cfg:7
+msgid "These arid highlands apparently are not worth a battle, but in reality controlling them is the key to win the endless war. North-West against South-East, 6 keeps, 16 villages."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Ipharian_Canyon.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Straanka_Ford.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Urgard_Ruins.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Belgar_Peak.cfg:33
+#: WoL_Map_Pack/scenarios/4p_Belgar_Peak.cfg:44
+msgid "teamname^North-West"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/2p_Ipharian_Canyon.cfg:33
+#: WoL_Map_Pack/scenarios/2p_Straanka_Ford.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Urgard_Ruins.cfg:33
+#: WoL_Map_Pack/scenarios/4p_Belgar_Peak.cfg:22
+#: WoL_Map_Pack/scenarios/4p_Belgar_Peak.cfg:55
+msgid "teamname^South-East"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Karphiol_Valley
 #: WoL_Map_Pack/scenarios/2p_Karphiol_Valley.cfg:5
 msgid "2p — Karphiol Valley"
 msgstr ""
 
-#. [multiplayer]: id=2p_Karphiol_Valley
+#. [multiplayer]: id=multiplayer_2p_Karphiol_Valley
 #: WoL_Map_Pack/scenarios/2p_Karphiol_Valley.cfg:6
 msgid "A small valley in the Heart Mountains, that gave place to an outpost, built by the Northern Alliance many-, and destroyed by a hostile drake tribe a few years ago."
 msgstr ""
@@ -240,32 +467,72 @@ msgstr ""
 msgid "teamname^Northwest"
 msgstr ""
 
-#. [multiplayer]: id=2p_Rice_Terraces
+#. [multiplayer]: id=multiplayer_2p_Kharan_Highlands
+#: WoL_Map_Pack/scenarios/2p_Kharan_Highlands.cfg:6
+msgid "2p — Kharan Highlands"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Kharan_Highlands
+#: WoL_Map_Pack/scenarios/2p_Kharan_Highlands.cfg:7
+msgid "This mountainous region has been disputed for long time, and the massive fortifications scattered in the land prove this. Now it's your turn to claim it. South against North, 10 keeps, 12 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Lakras_Steppes
+#: WoL_Map_Pack/scenarios/2p_Lakras_Steppes.cfg:6
+msgid "2p — Lakras Steppes"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Lakras_Steppes
+#: WoL_Map_Pack/scenarios/2p_Lakras_Steppes.cfg:7
+msgid "Long time ago, this region was green and fertile. Then arrived a fiery elemental storm that almost dried the immense lake. It is told that the power of the elements rage restlessly even now at the bottom of the lake, but someone else also listened to this legend... South against North, 10 keeps, 14 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Neraen_Front
+#: WoL_Map_Pack/scenarios/2p_Neraen_Front.cfg:6
+msgid "2p — Neraen Front"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Neraen_Front
+#: WoL_Map_Pack/scenarios/2p_Neraen_Front.cfg:7
+msgid "Two powerful kingdoms, an eternal war. But now the final decisive battle is approaching... And you will gain glory or oblivion. South against North, 6 keeps, 18 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Reynan_Fields
+#: WoL_Map_Pack/scenarios/2p_Reynan_Fields.cfg:6
+msgid "2p — Reynan Fields"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Reynan_Fields
+#: WoL_Map_Pack/scenarios/2p_Reynan_Fields.cfg:7
+msgid "Peripheral lands of the Crown, often ravaged by invaders from the outer mountains, the inhabitants are getting used to seeing armies stomping on their crops. North against South, 14 keeps, 14 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Rice_Terraces
 #: WoL_Map_Pack/scenarios/2p_Rice_Terraces.cfg:5
 msgid "2p — Rice Terraces"
 msgstr ""
 
-#. [multiplayer]: id=2p_Rice_Terraces
+#. [multiplayer]: id=multiplayer_2p_Rice_Terraces
 #: WoL_Map_Pack/scenarios/2p_Rice_Terraces.cfg:7
 msgid "Created by Horus2."
 msgstr ""
 
-#. [multiplayer]: id=2p_Rime_Grotto
+#. [multiplayer]: id=multiplayer_2p_Rime_Grotto
 #: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:5
 msgid "2p — Rime_Grotto"
 msgstr ""
 
-#. [multiplayer]: id=2p_Rime_Grotto
+#. [multiplayer]: id=multiplayer_2p_Rime_Grotto
 #: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:7
 msgid "This wide grotto, discovered and settled a long time ago by one, united group, a time of great prosperity. Peace does not last foever, as gradually the settlement's unity is lost as there becomes two distinct, hostile factions, both seeking to destroy the other, to take control. For the first time in its history, this forever peaceful grotto is embroiled in the flames of war. (Created by mich. Glaciated by Mint)."
 msgstr ""
 
-#. [multiplayer]: id=2p_Scarred_Foothills
+#. [multiplayer]: id=multiplayer_2p_Scarred_Foothills
 #: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:5
 msgid "2p — Scarred Foothills"
 msgstr ""
 
-#. [multiplayer]: id=2p_Scarred_Foothills
+#. [multiplayer]: id=multiplayer_2p_Scarred_Foothills
 #: WoL_Map_Pack/scenarios/2p_Scarred_Foothills.cfg:7
 msgid "Created by Siddh."
 msgstr ""
@@ -280,24 +547,34 @@ msgstr ""
 msgid "2p — Serpent Ford"
 msgstr ""
 
-#. [multiplayer]: id=2p_Sylvan_Refuge
+#. [multiplayer]: id=multiplayer_2p_Shrine_of_the_Moon
+#: WoL_Map_Pack/scenarios/2p_Shrine_of_the_Moon.cfg:5
+msgid "2p — Shrine of the Moon"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Shrine_of_the_Moon
+#: WoL_Map_Pack/scenarios/2p_Shrine_of_the_Moon.cfg:6
+msgid "The gardens of the shrine are a symbol of balance, harmony, and peace. How ironic."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Straanka_Ford
+#: WoL_Map_Pack/scenarios/2p_Straanka_Ford.cfg:6
+msgid "2p — Straanka Ford"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Straanka_Ford
+#: WoL_Map_Pack/scenarios/2p_Straanka_Ford.cfg:7
+msgid "Many great battles of the past were decided at this ford... Now it's your turn to enter history! South-West against North-East, 6 keeps, 10 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Sylvan_Refuge
 #: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:4
 msgid "2p — Sylvan Refuge"
 msgstr ""
 
-#. [multiplayer]: id=2p_Sylvan_Refuge
+#. [multiplayer]: id=multiplayer_2p_Sylvan_Refuge
 #: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:6
 msgid "1v1 Map made by Lord-Knightmare."
-msgstr ""
-
-#. [side]
-#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:19
-msgid "South"
-msgstr ""
-
-#. [side]
-#: WoL_Map_Pack/scenarios/2p_Sylvan_Refuge.cfg:28
-msgid "North"
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_Thalins_Stronghold
@@ -308,6 +585,11 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Thalins_Stronghold
 #: WoL_Map_Pack/scenarios/2p_Thalins_Stronghold.cfg:6
 msgid "Deep within the mountains lie the castles of the dwarven lords. Recommended setting of 2 gold per village."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Treulos
+#: WoL_Map_Pack/scenarios/2p_Treulos.cfg:6
+msgid "Large 1vs1 map with 22 villages"
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_2p_Trolls
@@ -325,46 +607,146 @@ msgstr ""
 msgid "teamname^Trolls"
 msgstr ""
 
-#. [multiplayer]: id=2p_Twin_Goddesses
+#. [multiplayer]: id=multiplayer_2p_Twin_Goddesses
 #: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:5
 msgid "2p — Twin Goddesses"
 msgstr ""
 
-#. [multiplayer]: id=2p_Twin_Goddesses
+#. [multiplayer]: id=multiplayer_2p_Twin_Goddesses
 #: WoL_Map_Pack/scenarios/2p_Twin_Goddesses.cfg:6
 msgid "This volcanic cave was once a temple, where in ancient times people had been worshipping their gods, and were throwing their offerings into lava pits. (Created by White_Drag0n)"
 msgstr ""
 
-#. [multiplayer]: id=2p_Wellington
+#. [multiplayer]: id=multiplayer_2p_Urgard_Ruins
+#: WoL_Map_Pack/scenarios/2p_Urgard_Ruins.cfg:6
+msgid "2p — Urgard Ruins"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Urgard_Ruins
+#: WoL_Map_Pack/scenarios/2p_Urgard_Ruins.cfg:7
+msgid "After the massive strike of Mal-Ravanal's undead hordes, this eastern city has never recovered from the terrible wound and has lain in ruins until now. Today you will regain and rebuild the city, but scavengers also are roaming in the vicinity... North-West against South-East, 10 keeps, 18 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Valan_Pass
+#: WoL_Map_Pack/scenarios/2p_Valan_Pass.cfg:6
+msgid "2p — Valan Pass"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Valan_Pass
+#: WoL_Map_Pack/scenarios/2p_Valan_Pass.cfg:7
+msgid "You are escorting the tribute of a vassal to your lord, but someone is trying to block the way through the pass and steal the treasure. North against South, 8 keeps, 18 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_2p_Wellington
 #: WoL_Map_Pack/scenarios/2p_Wellington.cfg:5
 msgid "2p — Wellington"
 msgstr ""
 
-#. [multiplayer]: id=2p_Wellington
+#. [multiplayer]: id=multiplayer_2p_Wellington
 #: WoL_Map_Pack/scenarios/2p_Wellington.cfg:7
 msgid "This is not the Freelands."
 msgstr ""
 
-#. [multiplayer]: id=4p_Fastfall
+#. [multiplayer]: id=multiplayer_4p_Belgar_Peak
+#: WoL_Map_Pack/scenarios/4p_Belgar_Peak.cfg:6
+msgid "4p — Belgar Peak"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Belgar_Peak
+#: WoL_Map_Pack/scenarios/4p_Belgar_Peak.cfg:7
+msgid "Belgar Peak is an important strategic point: from it you can watch and control an area as big as the forest of Wesmere. South-East against North-West, 10 keeps, 20 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Broken_Legacy
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:5
+msgid "4p — Broken Legacy"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Broken_Legacy
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:6
+msgid "This land once held many tales and legends. These now lay broken, like the land itself. This is a 2v2 map."
+msgstr ""
+
+#. [objective]: condition=win
+#: WoL_Map_Pack/scenarios/4p_Broken_Legacy.cfg:59
+msgid "Defeat both enemy leaders"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Fastfall
 #: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:5
 msgid "4p — Fastfall"
 msgstr ""
 
-#. [multiplayer]: id=4p_Fastfall
-#. [multiplayer]: id=4p_Sphinx
+#. [multiplayer]: id=multiplayer_4p_Fastfall
+#. [multiplayer]: id=multiplayer_4p_Sphinx
 #: WoL_Map_Pack/scenarios/4p_Fastfall.cfg:7
 #: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:7
 msgid "A map made by Enin."
 msgstr ""
 
-#. [multiplayer]: id=4p_First_Cataract
+#. [multiplayer]: id=multiplayer_4p_First_Cataract
 #: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:5
 msgid "4p — First Cataract"
 msgstr ""
 
-#. [multiplayer]: id=4p_First_Cataract
+#. [multiplayer]: id=multiplayer_4p_First_Cataract
 #: WoL_Map_Pack/scenarios/4p_First_Cataract.cfg:7
 msgid "Your allies have made first contact at the cataract, but can you get there before your enemies reinforce?"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Jelgeyn_Expedition
+#: WoL_Map_Pack/scenarios/4p_Jelgeyn_Expedition.cfg:6
+msgid "4p — Jelgeyn Expedition"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Jelgeyn_Expedition
+#: WoL_Map_Pack/scenarios/4p_Jelgeyn_Expedition.cfg:7
+msgid "Your explorers sighted an undiscovered group of islands. But as soon as you disembark to claim the new land and give it your name, another boat approaches and strangers claim the isle for their own. You cannot permit this affront. North against South, 4 keeps, 24 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Lunatics_Fringe
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:5
+msgid "4p — Lunatics Fringe"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Lunatics_Fringe
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:6
+msgid "If you like this map, you may be crazy. Last lunatic standing wins, if you get sane it doesn't count. On this map, everybody is your enemy."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:22
+msgid "teamname^First"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:31
+msgid "teamname^Second"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:40
+msgid "teamname^Third"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:49
+msgid "teamname^Last"
+msgstr ""
+
+#. [objective]: condition=win
+#: WoL_Map_Pack/scenarios/4p_Lunatics_Fringe.cfg:59
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Malahk_River
+#: WoL_Map_Pack/scenarios/4p_Malahk_River.cfg:6
+msgid "4p — Malahk River"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Malahk_River
+#: WoL_Map_Pack/scenarios/4p_Malahk_River.cfg:7
+msgid "The river divides the Southern Kingdoms from the Northern Clans. Many battles were fought across this perilous river, none of them decisive. But new champions are raising their swords along its banks... South against North, 18 keeps, 22 villages."
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_Mines_of_Mallorod
@@ -382,22 +764,22 @@ msgstr ""
 msgid " Recommended setting of 2 gold per village."
 msgstr ""
 
-#. [multiplayer]: id=4p_Murkrot
+#. [multiplayer]: id=multiplayer_4p_Murkrot
 #: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:5
 msgid "4p — Murkrot"
 msgstr ""
 
-#. [multiplayer]: id=4p_Murkrot
+#. [multiplayer]: id=multiplayer_4p_Murkrot
 #: WoL_Map_Pack/scenarios/4p_Murkrot.cfg:7
 msgid "A 2vs2 fought in the rotting shallows of a murky wood."
 msgstr ""
 
-#. [multiplayer]: id=4p_Oscillator
+#. [multiplayer]: id=multiplayer_4p_Oscillator
 #: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:5
 msgid "4p — Oscillator"
 msgstr ""
 
-#. [multiplayer]: id=4p_Oscillator
+#. [multiplayer]: id=multiplayer_4p_Oscillator
 #: WoL_Map_Pack/scenarios/4p_Oscillator.cfg:8
 msgid "A map made by Horus2."
 msgstr ""
@@ -407,7 +789,7 @@ msgstr ""
 msgid "teamname^Blockades"
 msgstr ""
 
-#. [multiplayer]: id=4p_Sphinx
+#. [multiplayer]: id=multiplayer_4p_Sphinx
 #: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:5
 msgid "4p — Sphinx"
 msgstr ""
@@ -422,6 +804,98 @@ msgstr ""
 #: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:34
 #: WoL_Map_Pack/scenarios/4p_Sphinx.cfg:46
 msgid "teamname^Northeast"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Thangard_Mines
+#: WoL_Map_Pack/scenarios/4p_Thangard_Mines.cfg:6
+msgid "4p — Thangard Mines"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Thangard_Mines
+#: WoL_Map_Pack/scenarios/4p_Thangard_Mines.cfg:7
+msgid "A prosperous kingdom is solid only when it can access resources to maintain itself, so why not claim these forgotten but fruitful mines? Oh, you were not the only to achieve this brilliant idea... North against South, 8 keeps, 22 villages."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Zarakxyss_Temple
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:35
+msgid "4p — Zarakxyss Temple"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_4p_Zarakxyss_Temple
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:36
+msgid "The statues of this forgotten sanctum of the lost Saurian Empire witness the immense power that it had when it was at its apex. You are here to investigate, but half of your soldiers have been separated from you by two squadrons of raiders. You cannot leave them to spoil the Temple... before you! North-West and South-East against South-West and North-East, 12 keeps, 18 villages."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:51
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:84
+msgid "teamname^Seekers"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:62
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:73
+msgid "teamname^Raiders"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:96
+msgid "Oxalyx"
+msgstr ""
+
+#. [unit]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:99
+msgid "He wanted to defy death... He finally succeeded, but remained still, blocked in his petrified state."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:101
+msgid "Idraxyan"
+msgstr ""
+
+#. [unit]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:104
+msgid "The Guardian of the Temple, until recent times."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:106
+msgid "Ylaxx"
+msgstr ""
+
+#. [unit]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:109
+msgid "The tamer of Ukluxxar."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:111
+msgid "Ukluxxar"
+msgstr ""
+
+#. [unit]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:114
+msgid "Many Saurians lost their lives trying to capture and tame the Lurking Beast. At last one eventually succeeded."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:116
+msgid "Alaxyss"
+msgstr ""
+
+#. [unit]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:119
+msgid "The champion of the city-state of Xaurax."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:121
+msgid "Eraxnoth"
+msgstr ""
+
+#. [unit]
+#: WoL_Map_Pack/scenarios/4p_Zarakxyss_Temple.cfg:124
+msgid "The fossil of one of the Great Dragons of the Gorghan Peaks."
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_8p_Underground
