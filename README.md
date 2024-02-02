@@ -8,61 +8,32 @@ Contains 55 maps.
 
 ### 2p (1v1)
 
-- Alarken Wastelands
-- Astral Port
-- Blackstone Crater
-- Caves of Khundar
-- Celarian Gardens
-- Crescent Lake
-- Devil's Plate
-- Devious Dockyard
-- Dumnak Forges
-- Eanyl Glades
-- Emperor's Garden
-- Eryn Chethu
-- Fast to Madness
-- Fendarall Delta
-- Garash Relics
-- Gloomriver
-- Grand Houde Mountain
-- Heart Mountain Caves
-- Hernan Mills
-- Icyvale
-- Ipharian Canyon
-- Karphiol Valley
-- Kharan Highlands
-- Lakras Steppes
-- Neraen Front
-- Reynan Fields
-- Rice Terraces
-- Rime Grotto
-- Rockhold
-- Scarred Foothills
-- Serpent Ford
-- Shrone of the Moon
-- Sylvan Refuge
-- Thalin's Stronghold
-- Treulos
-- Twin Goddesses
-- Urgard Ruins
-- Valan Pass
-- Wellington
+| Scenario Name        | Scenario Name         | Scenario Name      |
+|:---------------------|:----------------------|:-------------------|
+| Alarken Wastelands   | Fendarall Delta       | Rice Terraces      |
+| Astral Port          | Garash Relics         | Rime Grotto        |
+| Blackstone Crater    | Gloomriver            | Rockhold           |
+| Caves of Khundar     | Grand Houde Mountain  | Scarred Foothills  |
+| Celarian Gardens     | Heart Mountain Caves  | Serpent Ford       |
+| Crescent Lake        | Hernan Mills          | Shrone of the Moon |
+| Devil's Plate        | Icyvale               | Sylvan Refuge      |
+| Devious Dockyard     | Ipharian Canyon       | Thalin's Stronghold|
+| Dumnak Forges        | Karphiol Valley       | Treulos            |
+| Eanyl Glades         | Kharan Highlands      | Twin Goddesses     |
+| Emperor's Garden     | Lakras Steppes        | Urgard Ruins       |
+| Eryn Chethu          | Neraen Front          | Valan Pass         |
+| Fast to Madness      | Reynan Fields         | Wellington         |
+|                      |                       |                    |
 
 ### 4p (2v2)
 
-- Belgar Peak
-- Broken Legacy
-- Fastfall
-- First Cataract
-- Jelgeyn Expedition
-- Lunatics Fringe
-- Malahk River
-- Mines of Mallorod
-- Murkrot
-- Oscillator
-- Sphinx
-- Thangard Mines
-- Zarakxyss Temple
+| Scenario Name       | Scenario Name    | Scenario Name     |
+|:--------------------|:-----------------|:------------------|
+| Belgar Peak         | Lunatics Fringe  | Sphinx            |
+| Broken Legacy       | Malahk River     | Thangard Mines    |
+| Fastfall            | Mines of Mallorod| Zarakxyss Temple  |
+| First Cataract      | Murkrot          |                   |
+| Jelgeyn Expedition  | Oscillator       |                   |
 
 ### 8p (4v4)
 
