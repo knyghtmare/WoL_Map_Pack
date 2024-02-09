@@ -1,6 +1,10 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.2
+--> Astral Port: macro names changed to avoid duplicates
+--> Zarakxyss Temple: macro names changed to avoid duplicates
+
 v1.0.1
 --> Added Xalzar Maps
 --> Add EoM Maps
