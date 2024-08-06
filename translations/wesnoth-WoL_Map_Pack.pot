@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-02-02 13:34 UTC\n"
+"POT-Creation-Date: 2024-08-06 13:03 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,6 +25,7 @@ msgstr ""
 #: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:36
 #: WoL_Map_Pack/scenarios/2p_Dumnak_Forges.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:20
+#: WoL_Map_Pack/scenarios/2p_Fallenstar_Shrine.cfg:25
 #: WoL_Map_Pack/scenarios/2p_Fendarall_Delta.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Trolls.cfg:15
@@ -42,6 +43,7 @@ msgstr ""
 #: WoL_Map_Pack/scenarios/2p_Devious_Dockyard.cfg:21
 #: WoL_Map_Pack/scenarios/2p_Dumnak_Forges.cfg:33
 #: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:34
+#: WoL_Map_Pack/scenarios/2p_Fallenstar_Shrine.cfg:38
 #: WoL_Map_Pack/scenarios/2p_Fendarall_Delta.cfg:33
 #: WoL_Map_Pack/scenarios/2p_Grand_Houde_Mountain.cfg:34
 #: WoL_Map_Pack/scenarios/2p_Trolls.cfg:27
@@ -73,6 +75,8 @@ msgstr ""
 #: WoL_Map_Pack/scenarios/2p_Celarian_Gardens.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Crescent_Lake.cfg:28
 #: WoL_Map_Pack/scenarios/2p_Eanyl_Glade.cfg:22
+#: WoL_Map_Pack/scenarios/2p_Fallenstar_Shrine.cfg:56
+#: WoL_Map_Pack/scenarios/2p_Fallenstar_Shrine.cfg:78
 #: WoL_Map_Pack/scenarios/2p_Fast_To_Madness.cfg:34
 #: WoL_Map_Pack/scenarios/2p_Garash_Relics.cfg:22
 #: WoL_Map_Pack/scenarios/2p_Gloomriver.cfg:19
@@ -319,6 +323,16 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Eryn_Chetu
 #: WoL_Map_Pack/scenarios/2p_Eryn_Chethu.cfg:6
 msgid "Beware wanderer, for even the elves do not know what lives in the forests of Eryn Chethu. Recommended setting of 3 gold per village."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Fallenstar_Shrine_WOLMP
+#: WoL_Map_Pack/scenarios/2p_Fallenstar_Shrine.cfg:7
+msgid "2p — Fallenstar Shrine"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Fallenstar_Shrine_WOLMP
+#: WoL_Map_Pack/scenarios/2p_Fallenstar_Shrine.cfg:8
+msgid "Long ago, a great star fell from the heavens, but after thes of thousands of years it became a place of worship and conflict. By Hejnewar."
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_Fast_to_Madness
@@ -762,6 +776,28 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Mines_of_Mallorod
 #: WoL_Map_Pack/scenarios/4p_Mines_of_Mallorod.cfg:6
 msgid " Recommended setting of 2 gold per village."
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Molten_Gold_WOLMP
+#: WoL_Map_Pack/scenarios/4p_Molten_Gold.cfg:7
+msgid "4p — Molten Gold"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Molten_Gold_WOLMP
+#: WoL_Map_Pack/scenarios/4p_Molten_Gold.cfg:8
+msgid "Two teams of professional gold gatherers, Miners and Diggers arrived at the Molten Gold Island but which one will come out on top? By Hejnewar."
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Molten_Gold.cfg:25
+#: WoL_Map_Pack/scenarios/4p_Molten_Gold.cfg:61
+msgid "teamname^Miners"
+msgstr ""
+
+#. [side]
+#: WoL_Map_Pack/scenarios/4p_Molten_Gold.cfg:37
+#: WoL_Map_Pack/scenarios/4p_Molten_Gold.cfg:49
+msgid "teamname^Diggers"
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_4p_Murkrot
