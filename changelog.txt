@@ -1,6 +1,10 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.3
+--> New Scenarios: Molten Gold and Fallenstar Shrine
+    --> Credits to Hejnewar
+
 v1.0.2
 --> Astral Port: macro names changed to avoid duplicates
 --> Zarakxyss Temple: macro names changed to avoid duplicates
