@@ -1,6 +1,9 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.5
+--> New Scenario: 6p - Double Siege by Hejnewar
+
 v1.0.4
 --> Updated Maps of 36 scenarios which did not load
     --> Since one evil dev dropped legacy map loading support
