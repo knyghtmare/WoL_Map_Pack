@@ -1,6 +1,18 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.7
+--> New Scenarios:
+    --> 2p - Ashy Island
+    --> 2p - Autumn Harvest
+    --> 2p - Cave Rivers
+    --> 2p - Cold War
+    --> 2p - Marshy Fill
+    --> 2p - Summer Frosts
+    --> 2p - Troll Toll
+    --> 2p - Winter Steps
+    --> 3p - Lake of Three Kingdoms
+
 v1.0.6
 --> New Scenarios:
     --> 2p - Charge
