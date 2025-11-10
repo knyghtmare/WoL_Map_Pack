@@ -1,6 +1,11 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.6
+--> New Scenarios:
+    --> 2p - Charge
+    --> 2p - Blitz
+
 v1.0.5
 --> New Scenario: 6p - Double Siege by Hejnewar
 
