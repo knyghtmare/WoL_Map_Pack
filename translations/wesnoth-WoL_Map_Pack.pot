@@ -533,7 +533,7 @@ msgstr ""
 
 #. [multiplayer]: id=multiplayer_2p_Rime_Grotto
 #: WoL_Map_Pack/scenarios/2p_Rime_Grotto.cfg:5
-msgid "2p — Rime_Grotto"
+msgid "2p — Rime Grotto"
 msgstr ""
 
 #. [multiplayer]: id=multiplayer_2p_Rime_Grotto
