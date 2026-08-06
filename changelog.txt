@@ -1,6 +1,12 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.8
+--> New Scenarios:
+    --> 8p - Aleris
+    --> 2p - Mountains and Valleys
+    --> 9p - Cormoran Flux
+
 v1.0.7
 --> New Scenarios:
     --> 2p - Ashy Island
