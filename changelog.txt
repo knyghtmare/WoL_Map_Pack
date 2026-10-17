@@ -1,6 +1,10 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.10
+--> New Scenarios:
+    --> 2p - Twin Rivers
+
 v1.0.9
 --> New Scenarios:
     --> 2p - Race for Dimaga Beach
