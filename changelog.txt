@@ -1,6 +1,11 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.9
+--> New Scenarios:
+    --> 2p - Race for Dimaga Beach
+        --> (Original Version)
+
 v1.0.8
 --> New Scenarios:
     --> 8p - Aleris
