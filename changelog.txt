@@ -4,6 +4,7 @@ War of Legends: Map Pack
 v1.0.10
 --> New Scenarios:
     --> 2p - Twin Rivers
+    --> 2p - Arena of the Merciless
 
 v1.0.9
 --> New Scenarios:
