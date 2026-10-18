@@ -1,6 +1,12 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.11
+--> New Scenarios:
+    --> 2p - Malaki Catacombs
+    --> 4p - Frontier Skirmish
+    --> 4p - Triton Island
+
 v1.0.10
 --> New Scenarios:
     --> 2p - Twin Rivers
