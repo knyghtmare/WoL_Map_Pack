@@ -1,6 +1,9 @@
 War of Legends: Map Pack
 ========================
 
+v1.0.12
+--> New Scenario: 2p - Maxplank
+
 v1.0.11
 --> New Scenarios:
     --> 2p - Malaki Catacombs
